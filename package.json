@@ -1,0 +1,13 @@
+{
+  "name": "grpcTest",
+  "version": "1.0.0",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.1",
+    "bluebird": "^3.5.3",
+    "grpc": "^1.21.1",
+    "log4js": "^4.1.0",
+    "node-schedule": "^1.3.2",
+    "request": "^2.88.0",
+    "underscore": "^1.9.1"
+  }
+}
